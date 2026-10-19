@@ -1,0 +1,20 @@
+kind: source
+name: betty-db
+type: mysql
+host: ${MYSQL_HOST}
+port: ${MYSQL_PORT}
+user: ${MYSQL_USER}
+password: ${MYSQL_PASSWORD}
+database: betty_db
+---
+kind: tool
+name: get-product-price
+type: mysql-sql
+source: betty-db
+description: "Recherche le prix d'un produit spécifique dans la base de données de la boutique en fonction de son nom."
+parameters:
+  - name: product_name
+    type: string
+    description: "Le nom ou une partie du nom du produit recherché."
+statement: |
+  SELECT name, price FROM products WHERE name LIKE CONCAT('%', ?, '%');
