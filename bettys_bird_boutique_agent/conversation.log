@@ -1,0 +1,43 @@
+2026-10-19 20:50:17,041 - INFO - envs.py:47 - Loaded .env file for bettys_bird_boutique_agent at /workspace/cd14768-GCP-AgenticAI-C3-Classroom/project/starter/.env
+2026-10-19 20:50:17,042 - INFO - agent_loader.py:105 - Found root_agent in bettys_bird_boutique_agent.agent
+2026-10-19 20:50:17,066 - INFO - envs.py:47 - Loaded .env file for bettys_bird_boutique_agent at /workspace/cd14768-GCP-AgenticAI-C3-Classroom/project/starter/.env
+2026-10-19 20:50:21,869 - INFO - google_llm.py:112 - Sending out request, model: gemini-3.8-flash, backend: GoogleLLMVariant.GEMINI_API, stream: False
+2026-10-19 20:50:21,869 - INFO - models.py:6751 - AFC is enabled with max remote calls: 10.
+2026-10-19 20:50:26,225 - INFO - google_llm.py:205 - Response received from the model.
+2026-10-19 20:50:26,225 - WARNING - types.py:5928 - Warning: there are non-text parts in the response: ['thought_signature'], returning concatenated text result from text parts. Check the full candidates.content.parts accessor to get the full model response.
+2026-10-19 20:53:10,604 - INFO - google_llm.py:112 - Sending out request, model: gemini-3.8-flash, backend: GoogleLLMVariant.GEMINI_API, stream: False
+2026-10-19 20:53:10,604 - INFO - models.py:6751 - AFC is enabled with max remote calls: 10.
+2026-10-19 20:53:17,370 - INFO - google_llm.py:205 - Response received from the model.
+2026-10-19 20:53:17,371 - WARNING - types.py:5928 - Warning: there are non-text parts in the response: ['thought_signature', 'function_call'], returning concatenated text result from text parts. Check the full candidates.content.parts accessor to get the full model response.
+2026-10-19 20:53:17,443 - INFO - google_llm.py:112 - Sending out request, model: gemini-3.8-flash, backend: GoogleLLMVariant.GEMINI_API, stream: False
+2026-10-19 20:53:17,443 - INFO - models.py:6751 - AFC is enabled with max remote calls: 10.
+2026-10-19 20:53:25,802 - INFO - google_llm.py:205 - Response received from the model.
+2026-10-19 20:53:25,802 - WARNING - types.py:5928 - Warning: there are non-text parts in the response: ['thought_signature', 'function_call'], returning concatenated text result from text parts. Check the full candidates.content.parts accessor to get the full model response.
+2026-10-19 20:53:25,872 - INFO - google_llm.py:112 - Sending out request, model: gemini-3.8-flash, backend: GoogleLLMVariant.GEMINI_API, stream: False
+2026-10-19 20:53:25,872 - INFO - models.py:6751 - AFC is enabled with max remote calls: 10.
+2026-10-19 20:53:36,003 - INFO - google_llm.py:205 - Response received from the model.
+2026-10-19 20:53:36,003 - WARNING - types.py:5928 - Warning: there are non-text parts in the response: ['thought_signature', 'function_call'], returning concatenated text result from text parts. Check the full candidates.content.parts accessor to get the full model response.
+2026-10-19 20:53:36,076 - INFO - google_llm.py:112 - Sending out request, model: gemini-3.8-flash, backend: GoogleLLMVariant.GEMINI_API, stream: False
+2026-10-19 20:53:36,077 - INFO - models.py:6751 - AFC is enabled with max remote calls: 10.
+2026-10-19 20:54:03,092 - INFO - google_llm.py:205 - Response received from the model.
+2026-10-19 20:54:03,092 - WARNING - types.py:5928 - Warning: there are non-text parts in the response: ['thought_signature'], returning concatenated text result from text parts. Check the full candidates.content.parts accessor to get the full model response.
+2026-10-19 20:54:43,947 - INFO - google_llm.py:112 - Sending out request, model: gemini-3.8-flash, backend: GoogleLLMVariant.GEMINI_API, stream: False
+2026-10-19 20:54:43,947 - INFO - models.py:6751 - AFC is enabled with max remote calls: 10.
+2026-10-19 20:54:52,899 - INFO - google_llm.py:205 - Response received from the model.
+2026-10-19 20:54:52,899 - WARNING - types.py:5928 - Warning: there are non-text parts in the response: ['thought_signature', 'function_call'], returning concatenated text result from text parts. Check the full candidates.content.parts accessor to get the full model response.
+2026-10-19 20:54:52,972 - INFO - google_llm.py:112 - Sending out request, model: gemini-3.8-flash, backend: GoogleLLMVariant.GEMINI_API, stream: False
+2026-10-19 20:54:52,972 - INFO - models.py:6751 - AFC is enabled with max remote calls: 10.
+2026-10-19 20:54:58,517 - INFO - google_llm.py:205 - Response received from the model.
+2026-10-19 20:54:58,517 - WARNING - types.py:5928 - Warning: there are non-text parts in the response: ['thought_signature', 'function_call'], returning concatenated text result from text parts. Check the full candidates.content.parts accessor to get the full model response.
+2026-10-19 20:54:58,587 - INFO - google_llm.py:112 - Sending out request, model: gemini-3.8-flash, backend: GoogleLLMVariant.GEMINI_API, stream: False
+2026-10-19 20:54:58,588 - INFO - models.py:6751 - AFC is enabled with max remote calls: 10.
+2026-10-19 20:55:26,483 - INFO - google_llm.py:205 - Response received from the model.
+2026-10-19 20:55:26,483 - WARNING - types.py:5928 - Warning: there are non-text parts in the response: ['thought_signature', 'function_call'], returning concatenated text result from text parts. Check the full candidates.content.parts accessor to get the full model response.
+2026-10-19 20:55:26,555 - INFO - google_llm.py:112 - Sending out request, model: gemini-3.8-flash, backend: GoogleLLMVariant.GEMINI_API, stream: False
+2026-10-19 20:55:26,555 - INFO - models.py:6751 - AFC is enabled with max remote calls: 10.
+2026-10-19 20:55:58,468 - INFO - google_llm.py:205 - Response received from the model.
+2026-10-19 20:55:58,468 - WARNING - types.py:5928 - Warning: there are non-text parts in the response: ['thought_signature'], returning concatenated text result from text parts. Check the full candidates.content.parts accessor to get the full model response.
+2026-10-19 20:56:50,208 - INFO - google_llm.py:112 - Sending out request, model: gemini-3.8-flash, backend: GoogleLLMVariant.GEMINI_API, stream: False
+2026-10-19 20:56:50,208 - INFO - models.py:6751 - AFC is enabled with max remote calls: 10.
+2026-10-19 20:57:50,685 - INFO - google_llm.py:205 - Response received from the model.
+2026-10-19 20:57:50,685 - WARNING - types.py:5928 - Warning: there are non-text parts in the response: ['thought_signature'], returning concatenated text result from text parts. Check the full candidates.content.parts accessor to get the full model response.
